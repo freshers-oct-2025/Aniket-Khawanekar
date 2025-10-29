@@ -1,0 +1,20 @@
+/* .gallery {
+  display: grid;
+  grid-template-columns: 200px 200px 200px; 
+} */
+
+  .gallery {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  
+}
+
+.news-feed {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr); 
+  gap: 1rem;
+}
+
+.featured {
+  grid-column: span 2; 
+}

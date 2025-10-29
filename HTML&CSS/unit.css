@@ -1,0 +1,76 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+/* #nav1{
+    width: 1280px;
+    background-color: red;
+    height: 50px;
+    font-size: 30px;
+}
+
+
+#nav2{
+    width: 33.87cm;
+    background-color:aqua;
+    height: 50px;
+    font-size: 30px;
+
+}
+
+#nav3{
+    width: 338.8mm;
+    background-color:brown;
+    height: 50px;
+    font-size: 30px;
+
+}
+
+#nav4{
+    width: 13.337in;
+    background-color:green;
+    height: 50px;
+    font-size: 30px;
+
+}
+#nav5{
+    width: 80pc;
+    background-color:pink;
+    height: 50px;
+    font-size: 30px;
+
+}
+
+#nav6{
+    width: 960pt;
+    background-color:orchid;
+    height: 50px;
+    font-size: 30px;
+
+} */
+
+/* percentage take reference by parent element  */
+/* vw = viewport ,vw take reference of veiwport */
+
+/* div{
+    background-color: red;
+    height: 50vh; 
+    width: 50vw; 
+}
+main{
+    background-color: yellow;
+    height: 100%;
+    width: 20vw;
+} */
+
+/* vmax it take reference of maximum width or height of viewport
+  */
+  /* vmin it take reference of minimum width or height of viewport
+  */
+
+div{
+    background-color: green;
+    width: 50vmax;
+    height: 100px;
+}

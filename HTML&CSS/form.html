@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>form practise</title>
+  </head>
+  <body>
+    <form>
+      <fieldset>
+        <legend>form</legend>
+        <label>name </label><input type="text" value="Cristiano" disabled />
+        <br /><br />
+        <label>number </label><input type="tel" />
+
+        <br /><br />
+
+        <label for="browser">Choose your browser:</label>
+        <input list="browsers" name="browser" id="browser" />
+        <datalist id="browsers">
+          <option value="Chrome"></option>
+          <option value="Firefox"></option>
+          <option value="Safari"></option>
+          <option value="Opera"></option>
+          <option value="Edge"></option>
+        </datalist>
+
+        <br /><br />
+        <label>data </label><input type="text" value="hello" /> <br /><br />
+        <input type="submit" value="submit" />
+      </fieldset>
+    </form>
+  </body>
+</html>

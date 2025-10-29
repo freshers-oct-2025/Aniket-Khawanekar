@@ -1,0 +1,42 @@
+#box {
+    /* position: relative; */
+    background-color: red;
+    height: 50px;
+    width: 50px;
+    /* top: 50px; */
+}
+
+/* #box4 {
+    position: absolute;
+    background-color: rgb(66, 195, 54);
+    height: 50px;
+    width: 50px;
+    top: 50px;
+} */
+
+#box1 {
+    position: absolute;
+    background-color: blue;
+    height: 30px;
+    width: 30px;
+    top: 50px;
+}
+
+/* #box2 {
+    position: absolute;
+    background-color: rgb(186, 49, 145);
+    height: 30px;
+    width: 30px;
+    top: 50px;
+
+} */
+
+/* 
+#box3 {
+    position: absolute;
+    background-color: rgb(10, 8, 8);
+    height: 30px;
+    width: 30px;
+    top: 50px;
+
+} */
