@@ -1,0 +1,9 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+#buttons{
+    height: 100px;
+    width: 100vw;
+}
