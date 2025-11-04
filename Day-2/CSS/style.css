@@ -1,0 +1,56 @@
+   body {
+       font-family: Arial, sans-serif;
+       margin: 30px;
+       background: #f9f9f9;
+       color: #333;
+   }
+
+   h2 {
+       color: darkblue;
+       border-bottom: 2px solid #ddd;
+       padding-bottom: 5px;
+   }
+
+   .hover-box {
+       width: 100px;
+       height: 100px;
+       background-color: lightgray;
+   }
+
+   .hover-box:hover {
+       background: red;
+   }
+
+   input:focus {
+       border: 2px solid blue;
+       outline: none;
+       background-color: #e0f7ff;
+   }
+
+   button:active {
+       background-color: darkgreen;
+       color: white;
+       transform: scale(0.95);
+   }
+
+   ul li:first-child {
+       color: red;
+   }
+
+   ul li:last-child {
+       color: blue;
+   }
+
+   ol li:nth-child(2n) {
+       background: #e0e0e0;
+   }
+
+
+   input:disabled {
+       background: #ddd;
+       border: 1px solid gray;
+   }
+
+   input:enabled {
+       border: 1px solid green;
+   }
