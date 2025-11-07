@@ -1,0 +1,22 @@
+import math
+import math as m
+
+math.sqrt(16)
+m.sqrt(25)  
+print(m.factorial(5))
+print(math.pow(2, 3))   
+print(math.ceil(4.3))
+print(math.floor(4.7))
+print(math.gcd(48, 18)) 
+print(math.sin(math.pi / 2))
+print(math.cos(0))  
+print(math.log(100, 10))
+print(math.exp(2))
+print(math.radians(180))
+print(math.degrees(math.pi / 2))
+print(math.isqrt(20))
+print(math.comb(5, 2))
+print(math.perm(5, 2))
+print(math.dist((1, 2), (4, 6)))
+print(math.prod([1, 2, 3, 4]))
+print(math.fmod(20, 6))
