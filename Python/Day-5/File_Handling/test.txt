@@ -1,0 +1,7 @@
+Planned Todos
+Task 1:Python functions (HOF,lambda function,Flexible Functions,Closures,Recursion)
+Task 2:Python Decorators
+Task 3:Python Modules,packages
+Task 4:Python OOP — classes, inheritance, composition, dunder methods, properties
+Task 5:Python Iterators, generators, itertools, context managers.
+Task 6: Python (Explain __name__ with Properties)
