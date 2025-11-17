@@ -1,0 +1,7 @@
+{
+    "python.defaultInterpreterPath": "dataconnect/Scripts/python.exe",
+    "python.analysis.extraPaths": [
+        "dataconnect/Lib/site-packages"
+    ],
+    "python-envs.pythonProjects": []
+}
