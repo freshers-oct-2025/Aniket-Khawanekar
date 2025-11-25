@@ -1,7 +1,7 @@
 {
-    "python.defaultInterpreterPath": "dataconnect/Scripts/python.exe",
+    "python.defaultInterpreterPath": "datascience/Scripts/python.exe",
     "python.analysis.extraPaths": [
-        "dataconnect/Lib/site-packages"
+        "datascience/Lib/site-packages"
     ],
     "python-envs.pythonProjects": []
 }
